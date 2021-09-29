@@ -1,0 +1,12 @@
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\bin\Debug\net5.0\ElDispositivo.deps.json
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\bin\Debug\net5.0\ElDispositivo.dll
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\bin\Debug\net5.0\ref\ElDispositivo.dll
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\bin\Debug\net5.0\ElDispositivo.pdb
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\obj\Debug\net5.0\ElDispositivo.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\obj\Debug\net5.0\ElDispositivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\obj\Debug\net5.0\ElDispositivo.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\obj\Debug\net5.0\ElDispositivo.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\obj\Debug\net5.0\ElDispositivo.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\obj\Debug\net5.0\ElDispositivo.dll
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\obj\Debug\net5.0\ref\ElDispositivo.dll
+C:\Users\Mauro\Desktop\MR-ElDispositivo\ElDispositivo\obj\Debug\net5.0\ElDispositivo.pdb
