@@ -1,0 +1,12 @@
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\bin\Debug\net5.0\LaLibreria.deps.json
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\bin\Debug\net5.0\LaLibreria.dll
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\bin\Debug\net5.0\ref\LaLibreria.dll
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\bin\Debug\net5.0\LaLibreria.pdb
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\obj\Debug\net5.0\LaLibreria.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\obj\Debug\net5.0\LaLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\obj\Debug\net5.0\LaLibreria.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\obj\Debug\net5.0\LaLibreria.AssemblyInfo.cs
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\obj\Debug\net5.0\LaLibreria.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\obj\Debug\net5.0\LaLibreria.dll
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\obj\Debug\net5.0\ref\LaLibreria.dll
+C:\Users\mauri\Desktop\Visual\LaLibreria\LaLibreria\obj\Debug\net5.0\LaLibreria.pdb
