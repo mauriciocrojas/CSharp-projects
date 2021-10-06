@@ -1,0 +1,24 @@
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.csproj.AssemblyReference.cache
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.AssemblyInfoInputs.cache
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.AssemblyInfo.cs
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\bin\Debug\net5.0\Rojas.Mauricio.2C.deps.json
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\bin\Debug\net5.0\Rojas.Mauricio.2C.dll
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\bin\Debug\net5.0\ref\Rojas.Mauricio.2C.dll
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\bin\Debug\net5.0\Rojas.Mauricio.2C.pdb
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.dll
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\ref\Rojas.Mauricio.2C.dll
+C:\Users\mauri\Downloads\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.pdb
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\bin\Debug\net5.0\Rojas.Mauricio.2C.deps.json
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\bin\Debug\net5.0\Rojas.Mauricio.2C.dll
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\bin\Debug\net5.0\ref\Rojas.Mauricio.2C.dll
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\bin\Debug\net5.0\Rojas.Mauricio.2C.pdb
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.AssemblyInfo.cs
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.dll
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\ref\Rojas.Mauricio.2C.dll
+C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\Rojas.Mauricio.2C\obj\Debug\net5.0\Rojas.Mauricio.2C.pdb

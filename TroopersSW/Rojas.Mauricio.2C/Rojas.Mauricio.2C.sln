@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rojas.Mauricio.2C", "Rojas.Mauricio.2C\Rojas.Mauricio.2C.csproj", "{A89AD7D7-1413-45E9-AB14-B7980FABCA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTroopers", "TestTroopers\TestTroopers.csproj", "{E76F2968-EC1D-4596-B0A6-99813FC14199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89AD7D7-1413-45E9-AB14-B7980FABCA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89AD7D7-1413-45E9-AB14-B7980FABCA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89AD7D7-1413-45E9-AB14-B7980FABCA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89AD7D7-1413-45E9-AB14-B7980FABCA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76F2968-EC1D-4596-B0A6-99813FC14199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76F2968-EC1D-4596-B0A6-99813FC14199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76F2968-EC1D-4596-B0A6-99813FC14199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76F2968-EC1D-4596-B0A6-99813FC14199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3ACA4D-02CD-47D9-8EDE-2CFB1D3363FF}
+	EndGlobalSection
+EndGlobal
