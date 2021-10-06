@@ -24,7 +24,6 @@ namespace ElDispositivo
         public AppMusical(string nombre, SistemaOperativo sistemaOperativo, int tamanioInicial)
         : this(nombre, sistemaOperativo, tamanioInicial, new List<string>())
         {
-
         }
 
         public AppMusical(string nombre, SistemaOperativo sistemaOperativo, int tamanioInicial, List<string> listaCanciones)
