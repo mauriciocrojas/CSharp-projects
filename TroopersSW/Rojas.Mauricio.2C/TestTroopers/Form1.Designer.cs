@@ -1,7 +1,7 @@
 ﻿
 namespace TestTroopers
 {
-    partial class Form1
+    partial class FormSW
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,7 +29,7 @@ namespace TestTroopers
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormSW));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.btnQuitar = new System.Windows.Forms.Button();

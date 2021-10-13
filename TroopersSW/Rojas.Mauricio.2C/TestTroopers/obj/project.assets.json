@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mauri\\Desktop\\Visual\\Parciales\\PP LAB2\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\TestTroopers\\TestTroopers.csproj",
+      "projectUniqueName": "C:\\Users\\mauri\\Desktop\\CSharp\\TroopersSW\\Rojas.Mauricio.2C\\TestTroopers\\TestTroopers.csproj",
       "projectName": "TestTroopers",
-      "projectPath": "C:\\Users\\mauri\\Desktop\\Visual\\Parciales\\PP LAB2\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\TestTroopers\\TestTroopers.csproj",
+      "projectPath": "C:\\Users\\mauri\\Desktop\\CSharp\\TroopersSW\\Rojas.Mauricio.2C\\TestTroopers\\TestTroopers.csproj",
       "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mauri\\Desktop\\Visual\\Parciales\\PP LAB2\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\TestTroopers\\obj\\",
+      "outputPath": "C:\\Users\\mauri\\Desktop\\CSharp\\TroopersSW\\Rojas.Mauricio.2C\\TestTroopers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -61,8 +61,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\mauri\\Desktop\\Visual\\Parciales\\PP LAB2\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj": {
-              "projectPath": "C:\\Users\\mauri\\Desktop\\Visual\\Parciales\\PP LAB2\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj"
+            "C:\\Users\\mauri\\Desktop\\CSharp\\TroopersSW\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj": {
+              "projectPath": "C:\\Users\\mauri\\Desktop\\CSharp\\TroopersSW\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj"
             }
           }
         }

@@ -16,12 +16,9 @@ namespace Rojas.Mauricio._2C
 
         //Constructores
 
-        public TrooperExplorador(string vehiculo)
+        public TrooperExplorador(string vehiculo) : base(Blaster.EC17)
         {
-            this.vehiculo = vehiculo;
-            base.armamento = Blaster.EC17;
-            
-
+            this.Vehiculo = vehiculo;
         }
 
 
@@ -50,11 +47,10 @@ namespace Rojas.Mauricio._2C
 
         public override string InfoTrooper()
         {
-            string esUnClon = esClon ? "SI" : "NO";
 
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat($"{Tipo} armado con {armamento}, " +
-                $"{esUnClon} es clone, su vehiculo es {vehiculo}");
+            sb.AppendLine(base.InfoTrooper());
+            sb.AppendFormat($"su vehiculo es {vehiculo}");
 
 
             return sb.ToString();

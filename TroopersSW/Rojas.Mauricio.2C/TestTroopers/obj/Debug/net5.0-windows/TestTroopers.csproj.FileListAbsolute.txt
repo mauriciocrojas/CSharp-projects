@@ -42,3 +42,25 @@ C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio
 C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\ref\TestTroopers.dll
 C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.pdb
 C:\Users\mauri\Desktop\Visual\Parciales\PP LAB2\Rojas.Mauricio.2C\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.genruntimeconfig.cache
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\bin\Debug\net5.0-windows\TestTroopers.exe
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\bin\Debug\net5.0-windows\TestTroopers.deps.json
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\bin\Debug\net5.0-windows\TestTroopers.runtimeconfig.json
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\bin\Debug\net5.0-windows\TestTroopers.runtimeconfig.dev.json
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\bin\Debug\net5.0-windows\TestTroopers.dll
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\bin\Debug\net5.0-windows\ref\TestTroopers.dll
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\bin\Debug\net5.0-windows\TestTroopers.pdb
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\bin\Debug\net5.0-windows\Rojas.Mauricio.2C.dll
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\bin\Debug\net5.0-windows\Rojas.Mauricio.2C.pdb
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.Properties.Resources.resources
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.csproj.GenerateResource.cache
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.AssemblyInfo.cs
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.csproj.CopyComplete
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.dll
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\ref\TestTroopers.dll
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.pdb
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.genruntimeconfig.cache
+C:\Users\mauri\Desktop\CSharp\TroopersSW\Rojas.Mauricio.2C\TestTroopers\obj\Debug\net5.0-windows\TestTroopers.FormSW.resources

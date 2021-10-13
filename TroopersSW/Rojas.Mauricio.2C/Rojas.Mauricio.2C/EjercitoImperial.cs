@@ -22,7 +22,7 @@ namespace Rojas.Mauricio._2C
         }
 
 
-        public EjercitoImperial(int capacidad)
+        public EjercitoImperial(int capacidad) : this()//llama al constructor privado
         {
             this.capacidad = capacidad;
         }
@@ -45,9 +45,9 @@ namespace Rojas.Mauricio._2C
         {
 
 
-            foreach (Trooper soldier in ejercito.troopers)
+            foreach (Trooper item in ejercito.troopers)
             {
-                if (soldier == soldado)
+                if (item.Equals(soldado))
                 {
                     ejercito.troopers.Remove(soldado);
                     break;
@@ -62,14 +62,10 @@ namespace Rojas.Mauricio._2C
         public static EjercitoImperial operator +(EjercitoImperial ejercito, Trooper soldado)
         {
 
-            ejercito.troopers.Add(soldado);
-
-         /*int count = ejercito.troppers.Count();
-
-        if (count <= ejercito.capacidad)
-        {
-
-        }*/
+            if(ejercito.troopers.Count < ejercito.capacidad)
+            {
+                 ejercito.troopers.Add(soldado);
+            }
 
             return ejercito;
 

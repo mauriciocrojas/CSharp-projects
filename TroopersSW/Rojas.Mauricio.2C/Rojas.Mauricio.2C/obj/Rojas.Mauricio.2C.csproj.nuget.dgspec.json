@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mauri\\Desktop\\Visual\\Parciales\\PP LAB2\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj": {}
+    "C:\\Users\\mauri\\Desktop\\CSharp\\TroopersSW\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mauri\\Desktop\\Visual\\Parciales\\PP LAB2\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj": {
+    "C:\\Users\\mauri\\Desktop\\CSharp\\TroopersSW\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mauri\\Desktop\\Visual\\Parciales\\PP LAB2\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj",
+        "projectUniqueName": "C:\\Users\\mauri\\Desktop\\CSharp\\TroopersSW\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj",
         "projectName": "Rojas.Mauricio.2C",
-        "projectPath": "C:\\Users\\mauri\\Desktop\\Visual\\Parciales\\PP LAB2\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj",
+        "projectPath": "C:\\Users\\mauri\\Desktop\\CSharp\\TroopersSW\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C.csproj",
         "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mauri\\Desktop\\Visual\\Parciales\\PP LAB2\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\obj\\",
+        "outputPath": "C:\\Users\\mauri\\Desktop\\CSharp\\TroopersSW\\Rojas.Mauricio.2C\\Rojas.Mauricio.2C\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

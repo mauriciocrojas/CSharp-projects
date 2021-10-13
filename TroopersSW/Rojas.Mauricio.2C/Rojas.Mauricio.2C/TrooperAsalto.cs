@@ -10,9 +10,8 @@ namespace Rojas.Mauricio._2C
     {
         //Constructores
 
-        public TrooperAsalto(Blaster armamento) :base(armamento)
+        public TrooperAsalto(Blaster armamento) :base(armamento, true)
         {
-            this.esClon = true;
         }
 
         //Propiedades
