@@ -1,0 +1,16 @@
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\bin\Debug\net5.0\Ejercicio02.exe
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\bin\Debug\net5.0\Ejercicio02.deps.json
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\bin\Debug\net5.0\Ejercicio02.runtimeconfig.json
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\bin\Debug\net5.0\Ejercicio02.runtimeconfig.dev.json
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\bin\Debug\net5.0\Ejercicio02.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\bin\Debug\net5.0\ref\Ejercicio02.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\bin\Debug\net5.0\Ejercicio02.pdb
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\obj\Debug\net5.0\Ejercicio02.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\obj\Debug\net5.0\Ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\obj\Debug\net5.0\Ejercicio02.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\obj\Debug\net5.0\Ejercicio02.AssemblyInfo.cs
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\obj\Debug\net5.0\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\obj\Debug\net5.0\Ejercicio02.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\obj\Debug\net5.0\ref\Ejercicio02.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\obj\Debug\net5.0\Ejercicio02.pdb
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio2\obj\Debug\net5.0\Ejercicio02.genruntimeconfig.cache

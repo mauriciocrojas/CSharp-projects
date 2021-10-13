@@ -1,0 +1,32 @@
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.exe
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.deps.json
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.runtimeconfig.json
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.runtimeconfig.dev.json
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.dll
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\bin\Debug\net5.0\ref\Ejercicio_17.dll
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.pdb
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.dll
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\obj\Debug\net5.0\ref\Ejercicio_17.dll
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.pdb
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.genruntimeconfig.cache
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.exe
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.deps.json
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.runtimeconfig.json
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.runtimeconfig.dev.json
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.dll
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\ref\Ejercicio_17.dll
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.pdb
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.csproj.AssemblyReference.cache
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.AssemblyInfoInputs.cache
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.AssemblyInfo.cs
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.dll
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\ref\Ejercicio_17.dll
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.pdb
+C:\Users\mauri\Downloads\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.genruntimeconfig.cache

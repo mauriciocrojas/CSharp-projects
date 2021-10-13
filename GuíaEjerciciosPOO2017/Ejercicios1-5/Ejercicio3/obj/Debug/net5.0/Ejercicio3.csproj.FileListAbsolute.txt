@@ -1,0 +1,16 @@
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\obj\Debug\net5.0\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\obj\Debug\net5.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\obj\Debug\net5.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\bin\Debug\net5.0\Ejercicio3.exe
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\bin\Debug\net5.0\Ejercicio3.deps.json
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.json
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.dev.json
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\bin\Debug\net5.0\Ejercicio3.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\bin\Debug\net5.0\ref\Ejercicio3.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\bin\Debug\net5.0\Ejercicio3.pdb
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\obj\Debug\net5.0\Ejercicio3.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\obj\Debug\net5.0\ref\Ejercicio3.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\obj\Debug\net5.0\Ejercicio3.pdb
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio3\obj\Debug\net5.0\Ejercicio3.genruntimeconfig.cache

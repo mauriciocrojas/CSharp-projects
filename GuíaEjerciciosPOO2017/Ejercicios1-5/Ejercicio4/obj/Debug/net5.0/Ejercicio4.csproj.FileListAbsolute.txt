@@ -1,0 +1,16 @@
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\bin\Debug\net5.0\Ejercicio4.exe
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\bin\Debug\net5.0\Ejercicio4.deps.json
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\bin\Debug\net5.0\Ejercicio4.runtimeconfig.json
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\bin\Debug\net5.0\Ejercicio4.runtimeconfig.dev.json
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\bin\Debug\net5.0\Ejercicio4.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\bin\Debug\net5.0\ref\Ejercicio4.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\bin\Debug\net5.0\Ejercicio4.pdb
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\obj\Debug\net5.0\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\obj\Debug\net5.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\obj\Debug\net5.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\obj\Debug\net5.0\Ejercicio4.AssemblyInfo.cs
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\obj\Debug\net5.0\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\obj\Debug\net5.0\Ejercicio4.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\obj\Debug\net5.0\ref\Ejercicio4.dll
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\obj\Debug\net5.0\Ejercicio4.pdb
+C:\Users\mauri\Desktop\Visual\Exercises\Ejercicio4\obj\Debug\net5.0\Ejercicio4.genruntimeconfig.cache

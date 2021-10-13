@@ -1,0 +1,16 @@
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.exe
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.deps.json
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.runtimeconfig.json
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.runtimeconfig.dev.json
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.dll
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\bin\Debug\net5.0\ref\Ejercicio_18.dll
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.pdb
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.dll
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\obj\Debug\net5.0\ref\Ejercicio_18.dll
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.pdb
+C:\Users\Mauro\Desktop\Programacion 2\Ejercicio_18\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.genruntimeconfig.cache
