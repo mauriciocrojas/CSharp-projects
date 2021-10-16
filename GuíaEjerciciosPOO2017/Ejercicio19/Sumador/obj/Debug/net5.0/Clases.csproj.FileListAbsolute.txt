@@ -1,0 +1,12 @@
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\bin\Debug\net5.0\Clases.deps.json
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\bin\Debug\net5.0\Clases.dll
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\bin\Debug\net5.0\ref\Clases.dll
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\bin\Debug\net5.0\Clases.pdb
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\obj\Debug\net5.0\Clases.dll
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\obj\Debug\net5.0\ref\Clases.dll
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\obj\Debug\net5.0\Clases.pdb
+C:\Users\mauri\source\repos\Ejercicio19\Sumador\obj\Debug\net5.0\Clases.csproj.AssemblyReference.cache
