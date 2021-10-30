@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestEquipos/1.0.0": {
+        "dependencies": {
+          "Rojas.Mauricio.2C": "1.0.0"
+        },
+        "runtime": {
+          "TestEquipos.dll": {}
+        }
+      },
+      "Rojas.Mauricio.2C/1.0.0": {
+        "runtime": {
+          "Rojas.Mauricio.2C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestEquipos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rojas.Mauricio.2C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
